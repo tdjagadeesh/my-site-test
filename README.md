@@ -1,2 +1,2 @@
-# my-site-test
-Testing a webpage with github pages
+# Tara's awesome website!
+Look at my cool projects
